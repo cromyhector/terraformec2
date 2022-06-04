@@ -1,3 +1,3 @@
-module "ec2-module" {
+module "instance" {
   source = "./ec2"
 }
